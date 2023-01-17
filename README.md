@@ -1,0 +1,2 @@
+# SiberAtayNewsApi
+siberAtayAPİ
